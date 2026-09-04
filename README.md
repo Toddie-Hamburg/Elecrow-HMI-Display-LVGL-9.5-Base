@@ -11,4 +11,5 @@ With small adjustments to the pin configuration, it should also work for the sma
 
 Links -> Displays:
 5":   https://www.elecrow.com/esp32-display-5-inch-hmi-display-rgb-tft-lcd-touch-screen-support-lvgl.html
+
 7":   https://www.elecrow.com/esp32-display-7-inch-hmi-display-rgb-tft-lcd-touch-screen-support-lvgl.html
