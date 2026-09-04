@@ -1,0 +1,8 @@
+SET(SOURCES ui_pagehauptbild.c
+    ui.c
+    ui_comp_hook.c
+    ui_helpers.c
+    ui_events.cpp
+    fonts/ui_font_Calibri48.c)
+
+add_library(ui ${SOURCES})
