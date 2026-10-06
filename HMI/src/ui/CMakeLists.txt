@@ -1,0 +1,16 @@
+SET(SOURCES ui_pagehauptbild.c
+    ui_theme_manager.cpp
+    ui_themes.cpp
+    ui.c
+    ui_comp_hook.c
+    ui_helpers.c
+    ui_img_leds_led_rs_green_l_png.c
+    ui_img_leds_led_rs_red_l_png.c
+    fonts/ui_font_Calibri12.c
+    fonts/ui_font_Calibri12Bold.c
+    fonts/ui_font_Calibri16.c
+    fonts/ui_font_Calibri16Bold.c
+    fonts/ui_font_Calibri20.c
+    fonts/ui_font_Calibri20Bold.c)
+
+add_library(ui ${SOURCES})
